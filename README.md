@@ -1,5 +1,7 @@
 # ProTrack
 
+## An Interactive Multi-Omics Data Browser for Proteogenomic Studies 
+
 The Clinical Proteomic Tumor Analysis Consortium (CPTAC) initiative has generated  a unique and extensive multi-omics data resource of deep proteogenomic profiles from several cancer types. To enable the broader community of biological and medical researchers to intuitively explore, query, and download data and analysis results from various CPTAC projects, we built a prototype user-friendly web application called “ProTrack” with the clear cell renal cell carcinoma (ccRCC) data set (http://ccrcc.cptac-data-view.org). Here we describe the salient features of this application which provides a dynamic, comprehensive, and granular visualization of CPTAC3 data.
 
 ### Data
