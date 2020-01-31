@@ -10,7 +10,7 @@ Renal cell carcinoma (RCC), one of the top ten most commonly diagnosed cancers w
 
 ### References
 
-TODO
+Clark D, et al. Integrated proteogenomic characterization of clear cell renal cell carcinoma. Cell. 2019;179:964–983. doi: 10.1016/j.cell.2019.10.007
 
 ### Development environment setup
 
